@@ -19,7 +19,6 @@ The project uses **Node, Express, PostgreSQL, and MongoDB** to create a database
   - [Setting up the MongoDB Database](#setting-up-the-mongodb-database)
   - [Setting up Environment Variables](#setting-up-environment-variables)
 - [Connecting to the Server](#connecting-to-the-server)
-- [Contributors](#contributors)
 
 ---
 
@@ -103,32 +102,3 @@ The project uses **Node, Express, PostgreSQL, and MongoDB** to create a database
    http://localhost:3000
    ```
 5. To stop the server, press `CTRL + C` in the terminal.
-
----
-
-### **Contributors**
-
-<table>
-  <tr>
-    <th>Author</th>
-    <th>GitHub</th>
-  </tr>
-  <tr>
-    <td>Makenzie Roberts</td>
-    <td>
-      <a href="https://github.com/MakenzieRoberts"><img height="50px" src="https://avatars.githubusercontent.com/u/100213075?v=4"></a>
-    </td>
-  </tr> 
-  <tr>
-    <td>Kara Balsom</td>
-    <td>
-      <a href="https://github.com/kbalsom"><img height="50px" src="https://avatars.githubusercontent.com/u/100210446?v=4"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>David Turner</td>
-    <td>
-      <a href="https://github.com/DeToxFox"><img height="50px" src="https://avatars.githubusercontent.com/u/95373983?v=4"></a>
-    </td>
-  </tr>
-</table>
